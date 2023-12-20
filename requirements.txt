@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+nltk
+Sastrawi
+tensorflow
+keras-preprocessing
+Flask
+string
+keras
